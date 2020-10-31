@@ -1,5 +1,0 @@
-file3.txt
-
-this is a change 3 in the file
-
-java is fun
