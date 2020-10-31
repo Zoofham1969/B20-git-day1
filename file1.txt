@@ -7,3 +7,6 @@ we created a git repository
 we added one file 
 git automaticly detected the changes
 we commited this changes into local repository
+
+
+today was a good day
